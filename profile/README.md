@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-*We are the Imperial team, links: *
+* We are the Imperial team, links: *
 
 - [ImperialGram](https://t.me/imperialgram)
 - [Chat](https://t.me/GuAgchat)
